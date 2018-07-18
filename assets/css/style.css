@@ -1,0 +1,35 @@
+body{
+	background : white url('/images/danish_logo.png') center fixed no-repeat;
+}
+.font-1{
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+.font-2{
+	font-family: "Raleway", Arial, sans-serif
+}
+h1{
+	font-family: "Raleway", Arial, sans-serif
+}
+#TECHNOLOGY_CAROUSEL i{
+	font-size:xx-large;
+}
+.tri-up{
+	height : 0px;
+	max-width : 100% !important;
+	overflow : hidden;
+	padding:0px;
+	border : 0px;
+	border-top : solid 50px transparent;
+	border-right : solid 650px #009688;
+}
+.tri-down{
+	height : 0px;
+	max-width : 100px !important;
+	overflow : hidden;
+	padding:0px;
+	border : 0px;
+	margin:auto;
+	border-top : solid 30px #009688;
+	border-left : solid 50px transparent;
+	border-right : solid 50px transparent;
+}
